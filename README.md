@@ -51,7 +51,7 @@ These are the configuration options for each job:
 
 #### Cron syntax
 
-See [this link](https://godoc.org/github.com/robfig/cron]) for a full reference, but in short:
+See [this link](https://godoc.org/github.com/robfig/cron) for a full reference, but in short:
 
 
 Field name   | Mandatory? | Allowed values  | Allowed special characters

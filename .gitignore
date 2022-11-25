@@ -4,7 +4,7 @@
 *.dylib
 /faktory-cron
 /faktory-cron.exe
-
+faktory_cron
 # Test binary, build with `go test -c`
 *.test
 /dist

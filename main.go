@@ -7,7 +7,7 @@ import (
 )
 
 var (
-	version     = "master"
+	version     = "0.6.0"
 	debug       bool
 	config_path string
 	config      *Config

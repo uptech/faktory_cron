@@ -1,4 +1,4 @@
-module four-site/faktory_cron
+module four-site/faktory-cron
 
 go 1.19
 
